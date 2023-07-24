@@ -31,22 +31,22 @@ default = "Licensed under CC BY-NC-SA 4.0"
 
 ## Widgets
 [[widgets.homepage]]
-type = "search"
+type = "搜索"
 
 [[widgets.homepage]]
-type = "archives"
+type = "归档"
 
 [widgets.homepage.params]
 limit = 5
 
 [[widgets.homepage]]
-type = "categories"
+type = "分类"
 
 [widgets.homepage.params]
 limit = 10
 
 [[widgets.homepage]]
-type = "tag-cloud"
+type = "标签云"
 
 [widgets.homepage.params]
 limit = 10
