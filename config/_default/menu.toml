@@ -13,7 +13,7 @@ name = "GitHub"
 url = "https://github.com/Zachery-Liu"
 
 [social.params]
-icon = "github-fill.png"
+icon = "github-fill"
 
 [[social]]
 identifier = "bilibili"
@@ -21,4 +21,4 @@ name = "Bilibili"
 url = "https://space.bilibili.com/474705747"
 
 [social.params]
-icon = "icon_bilibili-circle.png"
+icon = "icon_bilibili-circle"
