@@ -9,12 +9,12 @@ since = 2020
 customText = ""
 
 [dateFormat]
-published = "Jan 02, 2006"
-lastUpdated = "Jan 02, 2006 15:04 MST"
+published = "2006 Jan 02"
+lastUpdated = "2006 Jan 02 15:04 +8000"
 
 [sidebar]
-emoji = "🍥"
-subtitle = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+emoji = "👊"
+subtitle = " <script src="https://v1.hitokoto.cn/?encode=js&select=%23hitokoto" defer /><a id="hitokoto_text">:D 获取中...</a>"
 
 [sidebar.avatar]
 enabled = true
@@ -76,7 +76,7 @@ enabled = true
 ## Comments
 [comments]
 enabled = true
-provider = "disqus"
+provider = "gitalk"
 
 [comments.disqusjs]
 shortname = ""
@@ -138,11 +138,13 @@ reactionsEnabled = 1
 emitMetadata = 0
 
 [comments.gitalk]
-owner = ""
-admin = ""
-repo = ""
-clientID = ""
-clientSecret = ""
+owner = "Zachery-Liu"
+admin = "Zachery-Liu"
+repo = "wkn.icu-comments"
+clientID = "9d2b42022c11611b1266"
+clientSecret = "47a73767382b890f0b3c549719b732eafa2f5aab"
+proxy= "https://githuboauth.api.wkn.icu/github_access_token"
+
 
 [comments.cusdis]
 host = ""
