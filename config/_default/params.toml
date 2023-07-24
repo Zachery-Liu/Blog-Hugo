@@ -14,7 +14,7 @@ lastUpdated = "2006 Jan 02 15:04 +8000"
 
 [sidebar]
 emoji = "👊"
-subtitle = " <script src="https://v1.hitokoto.cn/?encode=js&select=%23hitokoto" defer /><a id="hitokoto_text">:D 获取中...</a>"
+subtitle = "不喜欢故作高深"
 
 [sidebar.avatar]
 enabled = true
